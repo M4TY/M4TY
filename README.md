@@ -25,3 +25,5 @@ DevOps <br/>
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-262626?style=for-the-badge&logo=kubernetes)&nbsp;
 
 [![wakatime](https://wakatime.com/badge/user/dc920c64-1280-4709-bd4f-4ca9c4f366f2.svg)](https://wakatime.com/@dc920c64-1280-4709-bd4f-4ca9c4f366f2)
+
+[![GitLab account](https://gitlab.com/m4ty)
