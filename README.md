@@ -6,11 +6,6 @@
 
 <h2>💻&nbsp;Skills</h2>
 
-Frontend <br/>
-![React#](https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=React&logoColor=#7ed0ef)&nbsp;
-![React#](https://img.shields.io/badge/-NextJS-262626?style=for-the-badge&logo=nextdotjs)&nbsp;
-![Svelte#](https://img.shields.io/badge/-Svelte-262626?style=for-the-badge&logo=Svelte&logoColor=#d25a36)&nbsp;
-
 Backend <br/>
 ![Node.js](https://img.shields.io/badge/-Node.js-262626?style=for-the-badge&logo=Node.js&logoColor=FFCA28)&nbsp;
 ![TypeScript#](https://img.shields.io/badge/-TypeScript-262626?style=for-the-badge&logo=TypeScript&logoColor=#3478c6)&nbsp;
@@ -23,6 +18,11 @@ DevOps <br/>
 ![GitLab](https://img.shields.io/badge/-GitLab-262626?style=for-the-badge&logo=gitlab)&nbsp;
 ![TeamCity](https://img.shields.io/badge/-TeamCity-262626?style=for-the-badge&logo=teamcity)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-262626?style=for-the-badge&logo=kubernetes)&nbsp;
+
+Frontend <br/>
+![React#](https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=React&logoColor=#7ed0ef)&nbsp;
+![React#](https://img.shields.io/badge/-NextJS-262626?style=for-the-badge&logo=nextdotjs)&nbsp;
+![Svelte#](https://img.shields.io/badge/-Svelte-262626?style=for-the-badge&logo=Svelte&logoColor=#d25a36)&nbsp;
 
 [![wakatime](https://wakatime.com/badge/user/dc920c64-1280-4709-bd4f-4ca9c4f366f2.svg)](https://wakatime.com/@dc920c64-1280-4709-bd4f-4ca9c4f366f2)
 
